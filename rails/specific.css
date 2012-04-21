@@ -1,0 +1,18 @@
+.slide li#sample-code {
+  opacity: 1;
+}
+.slide#tools li.slide {
+  padding: 0px 0px 200px 0px;
+}
+.slide div.desc {
+  position: absolute;
+  float: left;
+}
+.slide div.icon {
+  position: relative;
+  float: right;
+}
+span.italic {
+  font-style: italic;
+}
+
